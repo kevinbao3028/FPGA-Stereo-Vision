@@ -1,0 +1,14 @@
+module DISPARITY(
+	input 			clk,
+	input [23:0]	a,
+	input	[23:0]	b,
+	input	[9:0]		x,
+	input	[9:0]		y,
+	
+	
+);
+
+reg [1535:0] aHist;
+reg [1535:0] bHist;
+
+endmodule

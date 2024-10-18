@@ -1,0 +1,48 @@
+module RAWDATA_TO_RGB (
+	input RST_N,
+//CAMERA B
+	input		[9:0]		aData,
+	input					aHS,
+	input					aVS,
+	input					aClk,	//25MHz from Camera A
+	
+	output		[7:0] 	aR,
+	output		[7:0] 	aG,
+	output		[7:0] 	aB,
+	output reg	[15:0]	aX,
+	output reg	[15:0]	aY,
+//CAMERA A
+	input 	[9:0] 	bData,
+	input					bHS,
+	input					bVS,
+	input					bClk,	//25MHz from Camera B
+	
+	output		[7:0] 	bR,
+	output		[7:0] 	bG,
+	output		[7:0] 	bB,
+	output reg	[15:0]	bX,
+	output reg	[15:0]	bY,
+//RGB READ IO
+	input 					rdClk,	//25MHz clock to read at
+	output reg	[7:0]		oR,
+	output reg	[7:0]		oG,
+	output reg	[7:0]		oB,
+//TEST IO
+	output test
+);
+//COPIED FROM D8M_SET.v
+parameter D8M_LINE_CNT  =  792 ; //792from signaltape 
+parameter FREE_RUN      =  44; 
+//
+assign test = aX==0 & bX==0;
+always @(posedge aClk or negedge RST_N) begin
+	aX	<=	#1	aHS|~RST_N ? 16'h0 : aX+1 ;
+	aY	<=	#1	aVS|~RST_N ? 16'h0 : ( aX==D8M_LINE_CNT ? aY+1 : aY ) ;
+end
+always @(posedge bClk or negedge RST_N) begin
+	bX	<=	#1	bHS|~RST_N ? 16'h0 : bX+1 ;
+	bY	<=	#1	bVS|~RST_N ? 16'h0 : ( bX==D8M_LINE_CNT ? bY+1 : bY ) ;
+end
+//2 line buffer or 4 line buffer? 4 may overwrite?
+
+endmodule

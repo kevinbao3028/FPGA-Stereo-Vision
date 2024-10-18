@@ -1,0 +1,16 @@
+<sld_project_info>
+  <project>
+    <hash md5_digest_80b="6463dcb39889b85613b7"/>
+  </project>
+  <file_info>
+    <file device="5CSEMA5F31C6" path="DE1_SOC.sof" usercode="0xFFFFFFFF"/>
+  </file_info>
+  <sld_infos>
+    <sld_info hpath="video_pll2:MIPI_clk" name="MIPI_clk">
+      <assignment_values>
+        <assignment_value text="QSYS_NAME video_pll2 HAS_SOPCINFO 1 GENERATION_ID 1716432377"/>
+      </assignment_values>
+      <parameters/>
+    </sld_info>
+  </sld_infos>
+</sld_project_info>

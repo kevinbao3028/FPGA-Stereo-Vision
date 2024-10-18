@@ -1,0 +1,14 @@
+
+State Machine - |DE1_SOC|RGB_Process:p1|mouse:u2|transmit:u0|state_value_x
+Name state_value_x.stay_x state_value_x.check_right state_value_x.check_left state_value_x.check_move_x state_value_x.no_change_x state_value_x.test_cont_x state_value_x.compare_right state_value_x.compare_left state_value_x.test_sign_x state_value_x.load_value_x2 state_value_x.load_value_x1 
+state_value_x.load_value_x1 0 0 0 0 0 0 0 0 0 0 0 
+state_value_x.load_value_x2 0 0 0 0 0 0 0 0 0 1 1 
+state_value_x.test_sign_x 0 0 0 0 0 0 0 0 1 0 1 
+state_value_x.compare_left 0 0 0 0 0 0 0 1 0 0 1 
+state_value_x.compare_right 0 0 0 0 0 0 1 0 0 0 1 
+state_value_x.test_cont_x 0 0 0 0 0 1 0 0 0 0 1 
+state_value_x.no_change_x 0 0 0 0 1 0 0 0 0 0 1 
+state_value_x.check_move_x 0 0 0 1 0 0 0 0 0 0 1 
+state_value_x.check_left 0 0 1 0 0 0 0 0 0 0 1 
+state_value_x.check_right 0 1 0 0 0 0 0 0 0 0 1 
+state_value_x.stay_x 1 0 0 0 0 0 0 0 0 0 1 

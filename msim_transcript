@@ -1,0 +1,158 @@
+# vsim -gui -l msim_transcript work.testbench 
+# Start time: 16:57:25 on Jun 10,2024
+# Loading work.testbench
+# Loading work.RECTIFY
+# Loading work.RECTBUFFER
+# Loading work.INTDIV
+# Loading work.INTDIV_lpm_divide
+# Loading work.INTDIV_sign_div_unsign
+# Loading work.INTDIV_alt_u_div
+# ** Warning: (vsim-3017) C:/Users/deval/Desktop/181dualcam/testbench.v(21): [TFMPC] - Too few port connections. Expected 9, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/rectifier File: C:/Users/deval/Desktop/181dualcam/RECTIFY.v
+# ** Warning: (vsim-3015) C:/Users/deval/Desktop/181dualcam/testbench.v(21): [PCDPC] - Port size (8) does not match connection size (1) for port 'a'. The port definition is at: C:/Users/deval/Desktop/181dualcam/RECTIFY.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/rectifier File: C:/Users/deval/Desktop/181dualcam/RECTIFY.v
+# ** Warning: (vsim-3015) C:/Users/deval/Desktop/181dualcam/testbench.v(21): [PCDPC] - Port size (8) does not match connection size (1) for port 'b'. The port definition is at: C:/Users/deval/Desktop/181dualcam/RECTIFY.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/rectifier File: C:/Users/deval/Desktop/181dualcam/RECTIFY.v
+# ** Warning: (vsim-3722) C:/Users/deval/Desktop/181dualcam/testbench.v(21): [TFMPC] - Missing connection for port 'ox'.
+# ** Warning: (vsim-3722) C:/Users/deval/Desktop/181dualcam/testbench.v(21): [TFMPC] - Missing connection for port 'oy'.
+# ** Warning: (vsim-3722) C:/Users/deval/Desktop/181dualcam/testbench.v(21): [TFMPC] - Missing connection for port 'oa'.
+# ** Warning: (vsim-3722) C:/Users/deval/Desktop/181dualcam/testbench.v(21): [TFMPC] - Missing connection for port 'ob'.
+# ** Warning: (vsim-3015) C:/Users/deval/Desktop/181dualcam/RECTIFY.v(32): [PCDPC] - Port size (13) does not match connection size (32) for port 'rdaddress'. The port definition is at: C:/Users/deval/Desktop/181dualcam/RECTBUFFER_bb.v(38).
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/rectifier/buffer_a File: C:/Users/deval/Desktop/181dualcam/RECTBUFFER_bb.v
+# ** Warning: (vsim-3015) C:/Users/deval/Desktop/181dualcam/RECTIFY.v(32): [PCDPC] - Port size (13) does not match connection size (1) for port 'wraddress'. The port definition is at: C:/Users/deval/Desktop/181dualcam/RECTBUFFER_bb.v(39).
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/rectifier/buffer_a File: C:/Users/deval/Desktop/181dualcam/RECTBUFFER_bb.v
+# ** Warning: (vsim-3015) C:/Users/deval/Desktop/181dualcam/RECTIFY.v(33): [PCDPC] - Port size (13) does not match connection size (32) for port 'rdaddress'. The port definition is at: C:/Users/deval/Desktop/181dualcam/RECTBUFFER_bb.v(38).
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/rectifier/buffer_b File: C:/Users/deval/Desktop/181dualcam/RECTBUFFER_bb.v
+# ** Warning: (vsim-3016) C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v(1848): Port type is incompatible with connection (port 'clock').
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/rectifier/div_ax/INTDIV_lpm_divide_component File: C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v
+# ** Warning: (vsim-3016) C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v(1809): Port type is incompatible with connection (port 'clock').
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/rectifier/div_ax/INTDIV_lpm_divide_component/divider File: C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v
+# ** Warning: (vsim-3016) C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v(1695): Port type is incompatible with connection (port 'clock').
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/rectifier/div_ax/INTDIV_lpm_divide_component/divider/divider File: C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v
+# ** Warning: (vsim-3016) C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v(1848): Port type is incompatible with connection (port 'clock').
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/rectifier/div_ay/INTDIV_lpm_divide_component File: C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v
+# ** Warning: (vsim-3016) C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v(1809): Port type is incompatible with connection (port 'clock').
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/rectifier/div_ay/INTDIV_lpm_divide_component/divider File: C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v
+# ** Warning: (vsim-3016) C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v(1695): Port type is incompatible with connection (port 'clock').
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/rectifier/div_ay/INTDIV_lpm_divide_component/divider/divider File: C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v
+# ** Warning: (vsim-3016) C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v(1848): Port type is incompatible with connection (port 'clock').
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/rectifier/div_bx/INTDIV_lpm_divide_component File: C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v
+# ** Warning: (vsim-3016) C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v(1809): Port type is incompatible with connection (port 'clock').
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/rectifier/div_bx/INTDIV_lpm_divide_component/divider File: C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v
+# ** Warning: (vsim-3016) C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v(1695): Port type is incompatible with connection (port 'clock').
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/rectifier/div_bx/INTDIV_lpm_divide_component/divider/divider File: C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v
+# ** Warning: (vsim-3016) C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v(1848): Port type is incompatible with connection (port 'clock').
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/rectifier/div_by/INTDIV_lpm_divide_component File: C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v
+# ** Warning: (vsim-3016) C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v(1809): Port type is incompatible with connection (port 'clock').
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/rectifier/div_by/INTDIV_lpm_divide_component/divider File: C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v
+# ** Warning: (vsim-3016) C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v(1695): Port type is incompatible with connection (port 'clock').
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/rectifier/div_by/INTDIV_lpm_divide_component/divider/divider File: C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v
+add wave -position insertpoint  \
+sim:/testbench/i \
+sim:/testbench/clk \
+sim:/testbench/x \
+sim:/testbench/y
+add wave -position end  sim:/testbench/rectifier/y_want_a
+add wave -position end  sim:/testbench/rectifier/y_want_b
+add wave -position end  sim:/testbench/rectifier/x_want_a
+add wave -position end  sim:/testbench/rectifier/x_want_b
+add wave -position end  sim:/testbench/rectifier/rd_ptr
+add wave -position end  sim:/testbench/rectifier/wr_ptr_a
+add wave -position end  sim:/testbench/rectifier/delay_a
+run
+# Compile of VGA_READ_COUNTER.v was successful.
+# Compile of CLOCKMEM.v was successful.
+# Compile of CORNER.v was successful.
+# Compile of CSCT.v was successful.
+# Compile of D8M_SET.v was successful.
+# Compile of D8M_WRITE_COUNTER.v was successful.
+# Compile of DISPARITY.v was successful.
+# Compile of DISPBUFFER.v was successful.
+# Compile of DISPBUFFER_bb.v was successful.
+# Compile of DISPCURVEBUFFER.v was successful.
+# Compile of DISPCURVEBUFFER_bb.v was successful.
+# Compile of DOUBLEDISPBUFFER.v was successful.
+# Compile of DOUBLEDISPBUFFER_bb.v was successful.
+# Compile of DOUBLEWEIGHTBUFFER.v was successful.
+# Compile of DOUBLEWEIGHTBUFFER_bb.v was successful.
+# Compile of EDGETHIN.v was successful.
+# Compile of HIGHPASS.v was successful.
+# Compile of HOMOGRAPHY_CALC.v was successful.
+# Compile of HYBRIDMEDIANBLUR.v was successful.
+# Compile of I2C_READ_DATA.v was successful.
+# Compile of I2C_RESET_DELAY.v was successful.
+# Compile of I2C_WRITE_PTR.v was successful.
+# Compile of I2C_WRITE_WDATA.v was successful.
+# Compile of int_line.v was successful.
+# Compile of int_line_bb.v was successful.
+# Compile of INTDIV.v was successful.
+# Compile of INTDIV_bb.v was successful.
+# Compile of INTDIV_syn.v was successful.
+# Compile of Line_Buffer_J.v was successful.
+# Compile of linebuffer.v was successful.
+# Compile of LINEBUFFER_K.v was successful.
+# Compile of LINEBUFFER_K_bb.v was successful.
+# Compile of LINEBUFFER_RD.v was successful.
+# Compile of LINEBUFFER_RD_bb.v was successful.
+# Compile of MINBUFFER.v was successful.
+# Compile of MINBUFFER_bb.v was successful.
+# Compile of PEAKS.v was successful.
+# Compile of RAW_RGB_BIN.v was successful.
+# Compile of RAWDATA_TO_RGB.v was successful with warnings.
+# Compile of RECTBUFFER.v was successful.
+# Compile of RECTBUFFER_bb.v was successful.
+# Compile of RECTIFY.v was successful.
+# Compile of SOBEL.v was successful.
+# Compile of SOBELMAG.v was successful.
+# Compile of testbench.v was successful.
+# Compile of VGA_controller.v was successful.
+# 46 compiles, 0 failed with no errors.
+restart
+# Loading work.testbench
+# Loading work.RECTIFY
+# Loading work.RECTBUFFER
+# Loading work.INTDIV
+# Loading work.INTDIV_lpm_divide
+# Loading work.INTDIV_sign_div_unsign
+# Loading work.INTDIV_alt_u_div
+# ** Warning: (vsim-3017) C:/Users/deval/Desktop/181dualcam/testbench.v(21): [TFMPC] - Too few port connections. Expected 9, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/rectifier File: C:/Users/deval/Desktop/181dualcam/RECTIFY.v
+# ** Warning: (vsim-3015) C:/Users/deval/Desktop/181dualcam/testbench.v(21): [PCDPC] - Port size (8) does not match connection size (1) for port 'a'. The port definition is at: C:/Users/deval/Desktop/181dualcam/RECTIFY.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/rectifier File: C:/Users/deval/Desktop/181dualcam/RECTIFY.v
+# ** Warning: (vsim-3015) C:/Users/deval/Desktop/181dualcam/testbench.v(21): [PCDPC] - Port size (8) does not match connection size (1) for port 'b'. The port definition is at: C:/Users/deval/Desktop/181dualcam/RECTIFY.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/rectifier File: C:/Users/deval/Desktop/181dualcam/RECTIFY.v
+# ** Warning: (vsim-3722) C:/Users/deval/Desktop/181dualcam/testbench.v(21): [TFMPC] - Missing connection for port 'ox'.
+# ** Warning: (vsim-3722) C:/Users/deval/Desktop/181dualcam/testbench.v(21): [TFMPC] - Missing connection for port 'oy'.
+# ** Warning: (vsim-3722) C:/Users/deval/Desktop/181dualcam/testbench.v(21): [TFMPC] - Missing connection for port 'oa'.
+# ** Warning: (vsim-3722) C:/Users/deval/Desktop/181dualcam/testbench.v(21): [TFMPC] - Missing connection for port 'ob'.
+# ** Warning: (vsim-3015) C:/Users/deval/Desktop/181dualcam/RECTIFY.v(32): [PCDPC] - Port size (13) does not match connection size (32) for port 'rdaddress'. The port definition is at: C:/Users/deval/Desktop/181dualcam/RECTBUFFER_bb.v(38).
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/rectifier/buffer_a File: C:/Users/deval/Desktop/181dualcam/RECTBUFFER_bb.v
+# ** Warning: (vsim-3015) C:/Users/deval/Desktop/181dualcam/RECTIFY.v(33): [PCDPC] - Port size (13) does not match connection size (32) for port 'rdaddress'. The port definition is at: C:/Users/deval/Desktop/181dualcam/RECTBUFFER_bb.v(38).
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/rectifier/buffer_b File: C:/Users/deval/Desktop/181dualcam/RECTBUFFER_bb.v
+# ** Warning: (vsim-3016) C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v(1848): Port type is incompatible with connection (port 'clock').
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/rectifier/div_ax/INTDIV_lpm_divide_component File: C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v
+# ** Warning: (vsim-3016) C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v(1809): Port type is incompatible with connection (port 'clock').
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/rectifier/div_ax/INTDIV_lpm_divide_component/divider File: C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v
+# ** Warning: (vsim-3016) C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v(1695): Port type is incompatible with connection (port 'clock').
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/rectifier/div_ax/INTDIV_lpm_divide_component/divider/divider File: C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v
+# ** Warning: (vsim-3016) C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v(1848): Port type is incompatible with connection (port 'clock').
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/rectifier/div_ay/INTDIV_lpm_divide_component File: C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v
+# ** Warning: (vsim-3016) C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v(1809): Port type is incompatible with connection (port 'clock').
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/rectifier/div_ay/INTDIV_lpm_divide_component/divider File: C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v
+# ** Warning: (vsim-3016) C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v(1695): Port type is incompatible with connection (port 'clock').
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/rectifier/div_ay/INTDIV_lpm_divide_component/divider/divider File: C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v
+# ** Warning: (vsim-3016) C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v(1848): Port type is incompatible with connection (port 'clock').
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/rectifier/div_bx/INTDIV_lpm_divide_component File: C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v
+# ** Warning: (vsim-3016) C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v(1809): Port type is incompatible with connection (port 'clock').
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/rectifier/div_bx/INTDIV_lpm_divide_component/divider File: C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v
+# ** Warning: (vsim-3016) C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v(1695): Port type is incompatible with connection (port 'clock').
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/rectifier/div_bx/INTDIV_lpm_divide_component/divider/divider File: C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v
+# ** Warning: (vsim-3016) C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v(1848): Port type is incompatible with connection (port 'clock').
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/rectifier/div_by/INTDIV_lpm_divide_component File: C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v
+# ** Warning: (vsim-3016) C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v(1809): Port type is incompatible with connection (port 'clock').
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/rectifier/div_by/INTDIV_lpm_divide_component/divider File: C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v
+# ** Warning: (vsim-3016) C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v(1695): Port type is incompatible with connection (port 'clock').
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/rectifier/div_by/INTDIV_lpm_divide_component/divider/divider File: C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v
+run
+# End time: 21:42:47 on Jun 10,2024, Elapsed time: 4:45:22
+# Errors: 0, Warnings: 43

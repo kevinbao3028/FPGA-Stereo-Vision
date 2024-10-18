@@ -1,0 +1,18 @@
+module HOMOGRAPHY_CALC(
+	input clk,
+	//possibly feed ram into this? and state?
+);
+reg	[:0]	state=0;
+//wait for points list -> eight point algo -> fit rectifying homography -> output to rectification module -> wait for..
+//8point
+//calc smallest eigenvalue of Y
+//repack e
+//find smallest singular vectors/values
+//subtract from e to get rank 2 matrix
+
+//fit rectifying homography
+always @(posedge clk) begin
+
+end
+
+endmodule

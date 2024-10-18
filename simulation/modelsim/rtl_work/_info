@@ -1,0 +1,53 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/deval/Desktop/181dualcam/simulation/modelsim
+vFPMUL
+Z1 !s110 1718081061
+!i10b 1
+!s100 Qm9FCZ52Y2JV^RD=KWn2J1
+I6AY=[=IndUmgHA8jANJ_A0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1718080704
+8C:/Users/deval/Desktop/181dualcam/FPMUL_sim/FPMUL.vo
+FC:/Users/deval/Desktop/181dualcam/FPMUL_sim/FPMUL.vo
+L0 32
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1718081060.000000
+!s107 C:/Users/deval/Desktop/181dualcam/FPMUL_sim/FPMUL.vo|
+!s90 -reportprogress|300|C:/Users/deval/Desktop/181dualcam/FPMUL_sim/FPMUL.vo|
+!i113 1
+Z4 tCvgOpt 0
+n@f@p@m@u@l
+vlinebuffer
+R1
+!i10b 1
+!s100 VKHQ5HH<X:Q:hl`EiE4<=2
+IzkDjd1eCzCM[heCaBimoP0
+R2
+R0
+w1716329978
+8C:/Users/deval/Desktop/181dualcam/linebuffer.v
+FC:/Users/deval/Desktop/181dualcam/linebuffer.v
+L0 40
+R3
+r1
+!s85 0
+31
+!s108 1718081061.000000
+!s107 C:/Users/deval/Desktop/181dualcam/linebuffer.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/deval/Desktop/181dualcam|C:/Users/deval/Desktop/181dualcam/linebuffer.v|
+!i113 1
+o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+C:/Users/deval/Desktop/181dualcam
+R4

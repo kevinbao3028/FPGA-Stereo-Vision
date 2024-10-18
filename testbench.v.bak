@@ -1,0 +1,27 @@
+`timescale 1ps / 1ps
+module testbench;
+
+integer i;
+reg	clk = 0;
+reg	[12:0]	 x,y;
+
+
+initial begin
+	for(i=0;i<6400;i++) begin
+		clk=~clk;
+		x = x<792 ? x+1 : 0;
+		y = x<792 ? y<525?y+1:0 : y;
+		#1;
+	end
+	$finish
+end
+ 
+RECTIFY rectifier(
+	.clk,
+	.a(ix^iy),
+	.b(~ix^iy),
+	.ix(x),
+	.iy(y)
+);
+
+endmodule

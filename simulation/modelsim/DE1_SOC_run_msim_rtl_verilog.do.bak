@@ -1,0 +1,33 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlog -vlog01compat -work work +incdir+C:/Users/deval/Desktop/181dualcam/vgapll/synthesis {C:/Users/deval/Desktop/181dualcam/vgapll/synthesis/vgapll.v}
+vlog -vlog01compat -work work +incdir+C:/Users/deval/Desktop/181dualcam {C:/Users/deval/Desktop/181dualcam/D8M_SET.v}
+vlog -vlog01compat -work work +incdir+C:/Users/deval/Desktop/181dualcam {C:/Users/deval/Desktop/181dualcam/RAW_RGB_BIN.v}
+vlog -vlog01compat -work work +incdir+C:/Users/deval/Desktop/181dualcam {C:/Users/deval/Desktop/181dualcam/Line_Buffer_J.v}
+vlog -vlog01compat -work work +incdir+C:/Users/deval/Desktop/181dualcam {C:/Users/deval/Desktop/181dualcam/int_line.v}
+vlog -vlog01compat -work work +incdir+C:/Users/deval/Desktop/181dualcam {C:/Users/deval/Desktop/181dualcam/MIPI_BRIDGE_CAMERA_Config.v}
+vlog -vlog01compat -work work +incdir+C:/Users/deval/Desktop/181dualcam {C:/Users/deval/Desktop/181dualcam/MIPI_CAMERA_CONFIG.v}
+vlog -vlog01compat -work work +incdir+C:/Users/deval/Desktop/181dualcam {C:/Users/deval/Desktop/181dualcam/I2C_RESET_DELAY.v}
+vlog -vlog01compat -work work +incdir+C:/Users/deval/Desktop/181dualcam {C:/Users/deval/Desktop/181dualcam/CLOCKMEM.v}
+vlog -vlog01compat -work work +incdir+C:/Users/deval/Desktop/181dualcam {C:/Users/deval/Desktop/181dualcam/I2C_READ_DATA.v}
+vlog -vlog01compat -work work +incdir+C:/Users/deval/Desktop/181dualcam {C:/Users/deval/Desktop/181dualcam/I2C_WRITE_PTR.v}
+vlog -vlog01compat -work work +incdir+C:/Users/deval/Desktop/181dualcam {C:/Users/deval/Desktop/181dualcam/I2C_WRITE_WDATA.v}
+vlog -vlog01compat -work work +incdir+C:/Users/deval/Desktop/181dualcam {C:/Users/deval/Desktop/181dualcam/MIPI_BRIDGE_CONFIG.v}
+vlog -vlog01compat -work work +incdir+C:/Users/deval/Desktop/181dualcam {C:/Users/deval/Desktop/181dualcam/de1_soc.v}
+vlib vgapll
+vmap vgapll vgapll
+vlog -vlog01compat -work vgapll +incdir+C:/Users/deval/Desktop/181dualcam/vgapll/synthesis/submodules {C:/Users/deval/Desktop/181dualcam/vgapll/synthesis/submodules/vgapll_video_pll_0.v}
+vlog -vlog01compat -work vgapll +incdir+C:/Users/deval/Desktop/181dualcam/vgapll/synthesis/submodules {C:/Users/deval/Desktop/181dualcam/vgapll/synthesis/submodules/altera_up_avalon_reset_from_locked_signal.v}
+vlog -vlog01compat -work vgapll +incdir+C:/Users/deval/Desktop/181dualcam/vgapll/synthesis/submodules {C:/Users/deval/Desktop/181dualcam/vgapll/synthesis/submodules/vgapll_video_pll_0_video_pll.v}
+vlib video_pll2
+vmap video_pll2 video_pll2
+vlog -vlog01compat -work video_pll2 +incdir+C:/Users/deval/Desktop/181dualcam/video_pll2/synthesis {C:/Users/deval/Desktop/181dualcam/video_pll2/synthesis/video_pll2.v}
+vlog -vlog01compat -work video_pll2 +incdir+C:/Users/deval/Desktop/181dualcam/video_pll2/synthesis/submodules {C:/Users/deval/Desktop/181dualcam/video_pll2/synthesis/submodules/video_pll2_video_pll_0.v}
+vlog -vlog01compat -work video_pll2 +incdir+C:/Users/deval/Desktop/181dualcam/video_pll2/synthesis/submodules {C:/Users/deval/Desktop/181dualcam/video_pll2/synthesis/submodules/altera_up_avalon_reset_from_locked_signal.v}
+vlog -vlog01compat -work video_pll2 +incdir+C:/Users/deval/Desktop/181dualcam/video_pll2/synthesis/submodules {C:/Users/deval/Desktop/181dualcam/video_pll2/synthesis/submodules/video_pll2_video_pll_0_video_pll.v}
+

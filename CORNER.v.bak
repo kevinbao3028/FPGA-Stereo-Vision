@@ -1,0 +1,30 @@
+module CORNER(
+	input clk,
+	input signed [7:0] xgrad,
+	input signed [7:0] ygrad,
+	input	[12:0] col,
+	input [12:0] row,
+	output signed [7:0] pixout
+);
+
+parameter LAMBDA = 0.05;//FIGURE THIS DECIMAL SHIT OUT
+
+reg	signed	[7:0]	x2,xy,y2;
+
+//preprocess bits coming in, then out
+//TODO: change word width on linebuffers or add new ones for all 3 vals
+linebuffer x2l1(.clock(clk),.data(pix ),.rdaddress(col[9:0]+10'd2),.wraddress(col[9:0]),.wren(1'b1),.q(out1));	//2-port RAM 1024x8
+linebuffer x2l2(.clock(clk),.data(out1),.rdaddress(col[9:0]+10'd2),.wraddress(col[9:0]),.wren(1'b1),.q(out2));
+linebuffer x2l3(.clock(clk),.data(out2),.rdaddress(col[9:0]+10'd2),.wraddress(col[9:0]),.wren(1'b1),.q(out3));
+
+//linebuffer and blur all 3 values
+always @(posedge clk) begin
+	x2 <=	xgrad*xgrad;
+	xy <=	xgrad*ygrad;
+	y2	<=	ygrad*ygrad;
+	//calc blurred structure tensor
+	pixout <= (bx2*by2-bxy*bxy)-LAMBDA*(bx2+by2)*(bx2+by2);//TODO: allow for decmial value
+end
+//find peak point in every 64x64 square, determine if confident
+//
+endmodule

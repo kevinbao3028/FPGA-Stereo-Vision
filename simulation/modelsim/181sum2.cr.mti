@@ -1,0 +1,358 @@
+C:/Users/deval/Desktop/181dualcam/FPSUB_bb.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/FPSUB_bb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FPSUB
+
+Top level modules:
+	FPSUB
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/RAW_RGB_BIN.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/RAW_RGB_BIN.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RAW_RGB_BIN
+
+Top level modules:
+	RAW_RGB_BIN
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/D8M_SET.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/D8M_SET.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module D8M_SET
+
+Top level modules:
+	D8M_SET
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/LINEBUFFER_K.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/LINEBUFFER_K.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module LINEBUFFER_K
+
+Top level modules:
+	LINEBUFFER_K
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/DOUBLEDISPBUFFER.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/DOUBLEDISPBUFFER.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module DOUBLEDISPBUFFER
+
+Top level modules:
+	DOUBLEDISPBUFFER
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/CSCT.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/CSCT.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module CSCT
+
+Top level modules:
+	CSCT
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/INTDIV.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/INTDIV.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module INTDIV
+
+Top level modules:
+	INTDIV
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/Line_Buffer_J.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/Line_Buffer_J.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Line_Buffer_J
+
+Top level modules:
+	Line_Buffer_J
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/HIGHPASS.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/HIGHPASS.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module HIGHPASS
+
+Top level modules:
+	HIGHPASS
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module INTDIV_alt_u_div
+-- Compiling module INTDIV_sign_div_unsign
+-- Compiling module INTDIV_lpm_divide
+-- Compiling module INTDIV
+
+Top level modules:
+	INTDIV
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/LINEBUFFER_K_bb.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/LINEBUFFER_K_bb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module LINEBUFFER_K
+
+Top level modules:
+	LINEBUFFER_K
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/FPDIV.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/FPDIV.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FPDIV
+
+Top level modules:
+	FPDIV
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/FPADD_bb.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/FPADD_bb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FPADD
+
+Top level modules:
+	FPADD
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/linebuffer.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/linebuffer.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module linebuffer
+
+Top level modules:
+	linebuffer
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/PEAKS.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/PEAKS.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module PEAKS
+
+Top level modules:
+	PEAKS
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/FPDIV_bb.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/FPDIV_bb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FPDIV
+
+Top level modules:
+	FPDIV
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/SOBEL.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/SOBEL.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SOBEL
+
+Top level modules:
+	SOBEL
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/DOUBLEWEIGHTBUFFER.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/DOUBLEWEIGHTBUFFER.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module DOUBLEWEIGHTBUFFER
+
+Top level modules:
+	DOUBLEWEIGHTBUFFER
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/DISPCURVEBUFFER.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/DISPCURVEBUFFER.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module DISPCURVEBUFFER
+
+Top level modules:
+	DISPCURVEBUFFER
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/testbench.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/testbench.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/EDGETHIN.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/EDGETHIN.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module EDGETHIN
+
+Top level modules:
+	EDGETHIN
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/FPSUB.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/FPSUB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FPSUB
+
+Top level modules:
+	FPSUB
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/DISPBUFFER_bb.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/DISPBUFFER_bb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module DISPBUFFER
+
+Top level modules:
+	DISPBUFFER
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/HYBRIDMEDIANBLUR.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/HYBRIDMEDIANBLUR.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module HYBRIDMEDIANBLUR
+
+Top level modules:
+	HYBRIDMEDIANBLUR
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/int_line_bb.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/int_line_bb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module int_line
+
+Top level modules:
+	int_line
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/I2C_RESET_DELAY.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/I2C_RESET_DELAY.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module I2C_RESET_DELAY
+
+Top level modules:
+	I2C_RESET_DELAY
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/LINEBUFFER_RD.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/LINEBUFFER_RD.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module LINEBUFFER_RD
+
+Top level modules:
+	LINEBUFFER_RD
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/HOMOGRAPHY_CALC.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/HOMOGRAPHY_CALC.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module HOMOGRAPHY_CALC
+
+Top level modules:
+	HOMOGRAPHY_CALC
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/SOBELMAG.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/SOBELMAG.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SOBELMAG
+
+Top level modules:
+	SOBELMAG
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/I2C_READ_DATA.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/I2C_READ_DATA.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module I2C_READ_DATA
+
+Top level modules:
+	I2C_READ_DATA
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/VGA_READ_COUNTER.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/VGA_READ_COUNTER.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module VGA_READ_COUNTER
+
+Top level modules:
+	VGA_READ_COUNTER
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/DOUBLEDISPBUFFER_bb.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/DOUBLEDISPBUFFER_bb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module DOUBLEDISPBUFFER
+
+Top level modules:
+	DOUBLEDISPBUFFER
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/I2C_WRITE_WDATA.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/I2C_WRITE_WDATA.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module I2C_WRITE_WDATA
+
+Top level modules:
+	I2C_WRITE_WDATA
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/DISPCURVEBUFFER_bb.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/DISPCURVEBUFFER_bb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module DISPCURVEBUFFER
+
+Top level modules:
+	DISPCURVEBUFFER
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/I2C_WRITE_PTR.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/I2C_WRITE_PTR.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module I2C_WRITE_PTR
+
+Top level modules:
+	I2C_WRITE_PTR
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/RAWDATA_TO_RGB.v {2 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/RAWDATA_TO_RGB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RAWDATA_TO_RGB
+** Warning: C:/Users/deval/Desktop/181dualcam/RAWDATA_TO_RGB.v(108): (vlog-2182) 'aD0' might be read before written in always_comb or always @* block.
+** Warning: C:/Users/deval/Desktop/181dualcam/RAWDATA_TO_RGB.v(108): (vlog-2182) 'aD1' might be read before written in always_comb or always @* block.
+** Warning: C:/Users/deval/Desktop/181dualcam/RAWDATA_TO_RGB.v(109): (vlog-2182) 'bD0' might be read before written in always_comb or always @* block.
+** Warning: C:/Users/deval/Desktop/181dualcam/RAWDATA_TO_RGB.v(109): (vlog-2182) 'bD1' might be read before written in always_comb or always @* block.
+
+Top level modules:
+	RAWDATA_TO_RGB
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/DISPARITY.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/DISPARITY.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module DISPARITY
+
+Top level modules:
+	DISPARITY
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/CORNER.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/CORNER.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module CORNER
+
+Top level modules:
+	CORNER
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/LINEBUFFER_RD_bb.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/LINEBUFFER_RD_bb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module LINEBUFFER_RD
+
+Top level modules:
+	LINEBUFFER_RD
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/CLOCKMEM.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/CLOCKMEM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module CLOCKMEM
+
+Top level modules:
+	CLOCKMEM
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/DOUBLEWEIGHTBUFFER_bb.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/DOUBLEWEIGHTBUFFER_bb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module DOUBLEWEIGHTBUFFER
+
+Top level modules:
+	DOUBLEWEIGHTBUFFER
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/MINBUFFER_bb.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/MINBUFFER_bb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MINBUFFER
+
+Top level modules:
+	MINBUFFER
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/RECTBUFFER_bb.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/RECTBUFFER_bb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RECTBUFFER
+
+Top level modules:
+	RECTBUFFER
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/FPMUL.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/FPMUL.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FPMUL
+
+Top level modules:
+	FPMUL
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/MINBUFFER.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/MINBUFFER.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MINBUFFER
+
+Top level modules:
+	MINBUFFER
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/FPADD.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/FPADD.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FPADD
+
+Top level modules:
+	FPADD
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/INTDIV_bb.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/INTDIV_bb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module INTDIV
+
+Top level modules:
+	INTDIV
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/DISPBUFFER.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/DISPBUFFER.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module DISPBUFFER
+
+Top level modules:
+	DISPBUFFER
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/D8M_WRITE_COUNTER.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/D8M_WRITE_COUNTER.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module D8M_WRITE_COUNTER
+
+Top level modules:
+	D8M_WRITE_COUNTER
+
+} {} {}} C:/Users/deval/Desktop/181dualcam/int_line.v {1 {vlog -work work -stats=none C:/Users/deval/Desktop/181dualcam/int_line.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module int_line
+
+Top level modules:
+	int_line
+
+} {} {}}

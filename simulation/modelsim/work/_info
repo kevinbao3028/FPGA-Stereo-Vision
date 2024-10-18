@@ -1,0 +1,932 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/deval/Desktop/181dualcam/simulation/modelsim
+vCLOCKMEM
+Z1 !s110 1718081568
+!i10b 1
+!s100 VB[]ZZS3JR2:aU@]f0Q0a2
+IcEF8L4AZ3MT_]O5f_eSU]2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1716431222
+8C:/Users/deval/Desktop/181dualcam/CLOCKMEM.v
+FC:/Users/deval/Desktop/181dualcam/CLOCKMEM.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1718081568.000000
+!s107 C:/Users/deval/Desktop/181dualcam/CLOCKMEM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/CLOCKMEM.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@c@l@o@c@k@m@e@m
+vCORNER
+R1
+!i10b 1
+!s100 mKmI25fg6>ZaXh[KojC?N1
+Im9X;0k3Y?E^1gf@eH:TZ^3
+R2
+R0
+w1717645597
+8C:/Users/deval/Desktop/181dualcam/CORNER.v
+FC:/Users/deval/Desktop/181dualcam/CORNER.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/deval/Desktop/181dualcam/CORNER.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/CORNER.v|
+!i113 1
+R5
+R6
+n@c@o@r@n@e@r
+vCSCT
+R1
+!i10b 1
+!s100 hT^Zf>NoolGKFD65PomKn2
+IBEGN?gL_GD4_F8UzC;k_83
+R2
+R0
+w1718059639
+8C:/Users/deval/Desktop/181dualcam/CSCT.v
+FC:/Users/deval/Desktop/181dualcam/CSCT.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/deval/Desktop/181dualcam/CSCT.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/CSCT.v|
+!i113 1
+R5
+R6
+n@c@s@c@t
+vD8M_SET
+Z7 !s110 1718081569
+!i10b 1
+!s100 8boaRH]f;Tzl>g^dg:4><1
+I73I07nkb?5O]g3K9U8@<Y1
+R2
+R0
+w1716453781
+8C:/Users/deval/Desktop/181dualcam/D8M_SET.v
+FC:/Users/deval/Desktop/181dualcam/D8M_SET.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z8 !s108 1718081569.000000
+!s107 C:/Users/deval/Desktop/181dualcam/D8M_SET.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/D8M_SET.v|
+!i113 1
+R5
+R6
+n@d8@m_@s@e@t
+vD8M_WRITE_COUNTER
+R7
+!i10b 1
+!s100 AmKGj@ic^Y::1mQKD9VAz1
+I9B>;<:dAC;5PZMz9BU_RA3
+R2
+R0
+w1716430959
+8C:/Users/deval/Desktop/181dualcam/D8M_WRITE_COUNTER.v
+FC:/Users/deval/Desktop/181dualcam/D8M_WRITE_COUNTER.v
+L0 2
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/deval/Desktop/181dualcam/D8M_WRITE_COUNTER.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/D8M_WRITE_COUNTER.v|
+!i113 1
+R5
+R6
+n@d8@m_@w@r@i@t@e_@c@o@u@n@t@e@r
+vDISPARITY
+R7
+!i10b 1
+!s100 MA>96Hn;[z;5FAUc7Vef;2
+ITCaMo@D0:aTgzQhC15[?02
+R2
+R0
+w1718060053
+8C:/Users/deval/Desktop/181dualcam/DISPARITY.v
+FC:/Users/deval/Desktop/181dualcam/DISPARITY.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/deval/Desktop/181dualcam/DISPARITY.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/DISPARITY.v|
+!i113 1
+R5
+R6
+n@d@i@s@p@a@r@i@t@y
+vDISPBUFFER
+R7
+!i10b 1
+!s100 YY?N:a3RUP6QM2`:in>5Q1
+IX=B>C_`i8jXEXZX7J=WD52
+R2
+R0
+w1717365343
+8C:/Users/deval/Desktop/181dualcam/DISPBUFFER_bb.v
+FC:/Users/deval/Desktop/181dualcam/DISPBUFFER_bb.v
+Z9 L0 35
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/deval/Desktop/181dualcam/DISPBUFFER_bb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/DISPBUFFER_bb.v|
+!i113 1
+R5
+R6
+n@d@i@s@p@b@u@f@f@e@r
+vDISPCURVEBUFFER
+R7
+!i10b 1
+!s100 G8OJ`Xc`8^U6U7H@^BEMg3
+IXbKMg?@KUGlRcZi2j3_hS1
+R2
+R0
+w1717277783
+8C:/Users/deval/Desktop/181dualcam/DISPCURVEBUFFER_bb.v
+FC:/Users/deval/Desktop/181dualcam/DISPCURVEBUFFER_bb.v
+R9
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/deval/Desktop/181dualcam/DISPCURVEBUFFER_bb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/DISPCURVEBUFFER_bb.v|
+!i113 1
+R5
+R6
+n@d@i@s@p@c@u@r@v@e@b@u@f@f@e@r
+vDOUBLEDISPBUFFER
+R7
+!i10b 1
+!s100 M^Z@z;1N9;z`HIfUT>>9K1
+Ij[:27k;j1i4jnig>0KCj02
+R2
+R0
+w1717532958
+8C:/Users/deval/Desktop/181dualcam/DOUBLEDISPBUFFER_bb.v
+FC:/Users/deval/Desktop/181dualcam/DOUBLEDISPBUFFER_bb.v
+R9
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/deval/Desktop/181dualcam/DOUBLEDISPBUFFER_bb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/DOUBLEDISPBUFFER_bb.v|
+!i113 1
+R5
+R6
+n@d@o@u@b@l@e@d@i@s@p@b@u@f@f@e@r
+vDOUBLEWEIGHTBUFFER
+R7
+!i10b 1
+!s100 8J>]LPoeV?0dlQXN3kQ7f3
+ITA?;=J:`B76eEMniV1fCE2
+R2
+R0
+w1717545264
+8C:/Users/deval/Desktop/181dualcam/DOUBLEWEIGHTBUFFER_bb.v
+FC:/Users/deval/Desktop/181dualcam/DOUBLEWEIGHTBUFFER_bb.v
+R9
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/deval/Desktop/181dualcam/DOUBLEWEIGHTBUFFER_bb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/DOUBLEWEIGHTBUFFER_bb.v|
+!i113 1
+R5
+R6
+n@d@o@u@b@l@e@w@e@i@g@h@t@b@u@f@f@e@r
+vEDGETHIN
+R7
+!i10b 1
+!s100 ;BoRecdJQR:na=@QP4iCa3
+IgS4[k=`WZzTTSM3z1OX4m3
+R2
+R0
+w1717545343
+8C:/Users/deval/Desktop/181dualcam/EDGETHIN.v
+FC:/Users/deval/Desktop/181dualcam/EDGETHIN.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/deval/Desktop/181dualcam/EDGETHIN.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/EDGETHIN.v|
+!i113 1
+R5
+R6
+n@e@d@g@e@t@h@i@n
+vFPADD
+R7
+!i10b 1
+!s100 G<FT836AUFRzP@=BbEUc^1
+IY[fagnTbf;RN=0WHf=NCo0
+R2
+R0
+w1718080162
+8C:/Users/deval/Desktop/181dualcam/FPADD_bb.v
+FC:/Users/deval/Desktop/181dualcam/FPADD_bb.v
+R9
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/deval/Desktop/181dualcam/FPADD_bb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/FPADD_bb.v|
+!i113 1
+R5
+R6
+n@f@p@a@d@d
+vFPDIV
+Z10 !s110 1718081570
+!i10b 1
+!s100 [gPO>WIOj:4<_:>KHY[Gc3
+I[Ch18d4__dCY7:aJ_RT5<0
+R2
+R0
+w1718080395
+8C:/Users/deval/Desktop/181dualcam/FPDIV_bb.v
+FC:/Users/deval/Desktop/181dualcam/FPDIV_bb.v
+R9
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/deval/Desktop/181dualcam/FPDIV_bb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/FPDIV_bb.v|
+!i113 1
+R5
+R6
+n@f@p@d@i@v
+vFPMUL
+R10
+!i10b 1
+!s100 `0Dn[?gaYJ<kYM@T6J1[F1
+I^k;S6T[egonhnMlAdA1Q>2
+R2
+R0
+w1718080709
+8C:/Users/deval/Desktop/181dualcam/FPMUL.v
+FC:/Users/deval/Desktop/181dualcam/FPMUL.v
+L0 8
+R3
+r1
+!s85 0
+31
+Z11 !s108 1718081570.000000
+!s107 C:/Users/deval/Desktop/181dualcam/FPMUL.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/FPMUL.v|
+!i113 1
+R5
+R6
+n@f@p@m@u@l
+vFPSUB
+R10
+!i10b 1
+!s100 3HOW2]cCjMc?U_35n]NT^2
+IZF[_QaA@zzI[<0gBb^B6R0
+R2
+R0
+w1718080265
+8C:/Users/deval/Desktop/181dualcam/FPSUB_bb.v
+FC:/Users/deval/Desktop/181dualcam/FPSUB_bb.v
+R9
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/deval/Desktop/181dualcam/FPSUB_bb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/FPSUB_bb.v|
+!i113 1
+R5
+R6
+n@f@p@s@u@b
+vHIGHPASS
+R10
+!i10b 1
+!s100 [;hLRgKjQ7AYe`YG_;o_00
+I[6FZG>gEE5GUJjHANB2NA2
+R2
+R0
+w1717693571
+8C:/Users/deval/Desktop/181dualcam/HIGHPASS.v
+FC:/Users/deval/Desktop/181dualcam/HIGHPASS.v
+L0 1
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/deval/Desktop/181dualcam/HIGHPASS.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/HIGHPASS.v|
+!i113 1
+R5
+R6
+n@h@i@g@h@p@a@s@s
+vHOMOGRAPHY_CALC
+R10
+!i10b 1
+!s100 @gnQaWEPMK`:6lMV5d;MJ1
+IGABF9f6A3KQ?JVVASA>4b1
+R2
+R0
+w1718081564
+8C:/Users/deval/Desktop/181dualcam/HOMOGRAPHY_CALC.v
+FC:/Users/deval/Desktop/181dualcam/HOMOGRAPHY_CALC.v
+L0 1
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/deval/Desktop/181dualcam/HOMOGRAPHY_CALC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/HOMOGRAPHY_CALC.v|
+!i113 1
+R5
+R6
+n@h@o@m@o@g@r@a@p@h@y_@c@a@l@c
+vHYBRIDMEDIANBLUR
+R10
+!i10b 1
+!s100 lo4aGQRQ>J5KQLk97XaeZ1
+I7Wl^BH=mII:41T[^cNPEN0
+R2
+R0
+w1717397069
+8C:/Users/deval/Desktop/181dualcam/HYBRIDMEDIANBLUR.v
+FC:/Users/deval/Desktop/181dualcam/HYBRIDMEDIANBLUR.v
+L0 1
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/deval/Desktop/181dualcam/HYBRIDMEDIANBLUR.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/HYBRIDMEDIANBLUR.v|
+!i113 1
+R5
+R6
+n@h@y@b@r@i@d@m@e@d@i@a@n@b@l@u@r
+vI2C_READ_DATA
+R10
+!i10b 1
+!s100 hCM`^cLgM0nfI^;Cn;U<Q3
+I`08RebcR4NGH?UkU4f[0g0
+R2
+R0
+w1716431236
+8C:/Users/deval/Desktop/181dualcam/I2C_READ_DATA.v
+FC:/Users/deval/Desktop/181dualcam/I2C_READ_DATA.v
+L0 1
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/deval/Desktop/181dualcam/I2C_READ_DATA.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/I2C_READ_DATA.v|
+!i113 1
+R5
+R6
+n@i2@c_@r@e@a@d_@d@a@t@a
+vI2C_RESET_DELAY
+R10
+!i10b 1
+!s100 1aRz0FGzV_H9C>^8H4>1I1
+IB5OO5IVH8G>6Ai;Pm?ccT1
+R2
+R0
+w1716431207
+8C:/Users/deval/Desktop/181dualcam/I2C_RESET_DELAY.v
+FC:/Users/deval/Desktop/181dualcam/I2C_RESET_DELAY.v
+L0 1
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/deval/Desktop/181dualcam/I2C_RESET_DELAY.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/I2C_RESET_DELAY.v|
+!i113 1
+R5
+R6
+n@i2@c_@r@e@s@e@t_@d@e@l@a@y
+vI2C_WRITE_PTR
+R10
+!i10b 1
+!s100 WmH;=zIE75^`>C0PDc;h82
+I6G0KRSNFkO^62SH5I=P7Z1
+R2
+R0
+w1716431253
+8C:/Users/deval/Desktop/181dualcam/I2C_WRITE_PTR.v
+FC:/Users/deval/Desktop/181dualcam/I2C_WRITE_PTR.v
+L0 1
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/deval/Desktop/181dualcam/I2C_WRITE_PTR.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/I2C_WRITE_PTR.v|
+!i113 1
+R5
+R6
+n@i2@c_@w@r@i@t@e_@p@t@r
+vI2C_WRITE_WDATA
+R10
+!i10b 1
+!s100 oIPU3h^Ro?JOVA]UB4jnV2
+IFHWVEJQe>04>72Q?_eI113
+R2
+R0
+w1716431268
+8C:/Users/deval/Desktop/181dualcam/I2C_WRITE_WDATA.v
+FC:/Users/deval/Desktop/181dualcam/I2C_WRITE_WDATA.v
+L0 1
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/deval/Desktop/181dualcam/I2C_WRITE_WDATA.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/I2C_WRITE_WDATA.v|
+!i113 1
+R5
+R6
+n@i2@c_@w@r@i@t@e_@w@d@a@t@a
+vint_line
+R10
+!i10b 1
+!s100 PHGg0IjOVU]J<>ak58HfZ1
+I0RjXh?_F>LK8]S8ma3j[S1
+R2
+R0
+w1716430930
+8C:/Users/deval/Desktop/181dualcam/int_line_bb.v
+FC:/Users/deval/Desktop/181dualcam/int_line_bb.v
+R9
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/deval/Desktop/181dualcam/int_line_bb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/int_line_bb.v|
+!i113 1
+R5
+R6
+vINTDIV
+Z12 !s110 1718081571
+!i10b 1
+!s100 Y?Y_aMehlJTMG@CIBhQPa1
+ITW=PGZ[]a0XN=@VT9FYK81
+R2
+R0
+Z13 w1718061903
+Z14 8C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v
+Z15 FC:/Users/deval/Desktop/181dualcam/INTDIV_syn.v
+L0 1828
+R3
+r1
+!s85 0
+31
+R11
+Z16 !s107 C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v|
+Z17 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/INTDIV_syn.v|
+!i113 1
+R5
+R6
+n@i@n@t@d@i@v
+vINTDIV_alt_u_div
+R12
+!i10b 1
+!s100 =UiH^K`jBPK?ikR@;m[2X3
+IDkI;?1_Q8]86Q5>zeQa:?2
+R2
+R0
+R13
+R14
+R15
+L0 187
+R3
+r1
+!s85 0
+31
+R11
+R16
+R17
+!i113 1
+R5
+R6
+n@i@n@t@d@i@v_alt_u_div
+vINTDIV_lpm_divide
+R12
+!i10b 1
+!s100 kH_Aji0OCKc`Wm8SUJE8J1
+I^=B<;<ld_RQmf?00n7nZa2
+R2
+R0
+R13
+R14
+R15
+L0 1782
+R3
+r1
+!s85 0
+31
+R11
+R16
+R17
+!i113 1
+R5
+R6
+n@i@n@t@d@i@v_lpm_divide
+vINTDIV_sign_div_unsign
+R12
+!i10b 1
+!s100 Yn0TgcQZiE>GNIz1@NV3n1
+IKVi@Z2_jl;m6=VLb1UEWe2
+R2
+R0
+R13
+R14
+R15
+L0 1632
+R3
+r1
+!s85 0
+31
+R11
+R16
+R17
+!i113 1
+R5
+R6
+n@i@n@t@d@i@v_sign_div_unsign
+vLine_Buffer_J
+R12
+!i10b 1
+!s100 KF9nEd>?Skf;Z8G?Q6_ZE1
+I]==nWTio5IbaQV?<:Rn9a1
+R2
+R0
+w1716444927
+8C:/Users/deval/Desktop/181dualcam/Line_Buffer_J.v
+FC:/Users/deval/Desktop/181dualcam/Line_Buffer_J.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z18 !s108 1718081571.000000
+!s107 C:/Users/deval/Desktop/181dualcam/Line_Buffer_J.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/Line_Buffer_J.v|
+!i113 1
+R5
+R6
+n@line_@buffer_@j
+vlinebuffer
+R12
+!i10b 1
+!s100 VKHQ5HH<X:Q:hl`EiE4<=2
+IJCXkb3Om[5nF`Q0Xg5C2R0
+R2
+R0
+w1716329978
+8C:/Users/deval/Desktop/181dualcam/linebuffer.v
+FC:/Users/deval/Desktop/181dualcam/linebuffer.v
+L0 40
+R3
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/deval/Desktop/181dualcam/linebuffer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/linebuffer.v|
+!i113 1
+R5
+R6
+vLINEBUFFER_K
+R12
+!i10b 1
+!s100 bG5o>8[TIzEW2UNXeYHDE1
+IM4<FbK2i8z:UFG?E0XC:f2
+R2
+R0
+w1716431468
+8C:/Users/deval/Desktop/181dualcam/LINEBUFFER_K_bb.v
+FC:/Users/deval/Desktop/181dualcam/LINEBUFFER_K_bb.v
+R9
+R3
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/deval/Desktop/181dualcam/LINEBUFFER_K_bb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/LINEBUFFER_K_bb.v|
+!i113 1
+R5
+R6
+n@l@i@n@e@b@u@f@f@e@r_@k
+vLINEBUFFER_RD
+R12
+!i10b 1
+!s100 F[M<HQBR_=BZKZCTbW^an2
+IO7zCb]99C8D_f`eH5Xc5z0
+R2
+R0
+w1716780743
+8C:/Users/deval/Desktop/181dualcam/LINEBUFFER_RD_bb.v
+FC:/Users/deval/Desktop/181dualcam/LINEBUFFER_RD_bb.v
+R9
+R3
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/deval/Desktop/181dualcam/LINEBUFFER_RD_bb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/LINEBUFFER_RD_bb.v|
+!i113 1
+R5
+R6
+n@l@i@n@e@b@u@f@f@e@r_@r@d
+vMINBUFFER
+R12
+!i10b 1
+!s100 <Uh99oMH^zHME]V0h4WnI2
+IP6P;[zn]>e2P_h9E9SWmB2
+R2
+R0
+w1717366787
+8C:/Users/deval/Desktop/181dualcam/MINBUFFER_bb.v
+FC:/Users/deval/Desktop/181dualcam/MINBUFFER_bb.v
+R9
+R3
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/deval/Desktop/181dualcam/MINBUFFER_bb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/MINBUFFER_bb.v|
+!i113 1
+R5
+R6
+n@m@i@n@b@u@f@f@e@r
+vPEAKS
+R12
+!i10b 1
+!s100 COJILNSnkgPE:SBMAhmVl3
+IBNo;c6HA>d;Gbb1dZWQEA2
+R2
+R0
+w1717657775
+8C:/Users/deval/Desktop/181dualcam/PEAKS.v
+FC:/Users/deval/Desktop/181dualcam/PEAKS.v
+L0 1
+R3
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/deval/Desktop/181dualcam/PEAKS.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/PEAKS.v|
+!i113 1
+R5
+R6
+n@p@e@a@k@s
+vRAW_RGB_BIN
+R12
+!i10b 1
+!s100 AZPfolS2dO57`0><S?z140
+I@KDU@bkAHId`fd_c?5dlE2
+R2
+R0
+w1716430790
+8C:/Users/deval/Desktop/181dualcam/RAW_RGB_BIN.v
+FC:/Users/deval/Desktop/181dualcam/RAW_RGB_BIN.v
+L0 1
+R3
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/deval/Desktop/181dualcam/RAW_RGB_BIN.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/RAW_RGB_BIN.v|
+!i113 1
+R5
+R6
+n@r@a@w_@r@g@b_@b@i@n
+vRAWDATA_TO_RGB
+R12
+!i10b 1
+!s100 FGN4Q^8WMc8YzebAIF=c<3
+IDPga?H0CaP<1Z]KF?jf7`3
+R2
+R0
+w1717107365
+8C:/Users/deval/Desktop/181dualcam/RAWDATA_TO_RGB.v
+FC:/Users/deval/Desktop/181dualcam/RAWDATA_TO_RGB.v
+L0 1
+R3
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/deval/Desktop/181dualcam/RAWDATA_TO_RGB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/RAWDATA_TO_RGB.v|
+!i113 1
+R5
+R6
+n@r@a@w@d@a@t@a_@t@o_@r@g@b
+vRECTBUFFER
+R12
+!i10b 1
+!s100 8MD7R>;BYCf8hAXTaZoNB1
+I1g^6DgfFA:^?JS4ShOzAO3
+R2
+R0
+w1717664735
+8C:/Users/deval/Desktop/181dualcam/RECTBUFFER_bb.v
+FC:/Users/deval/Desktop/181dualcam/RECTBUFFER_bb.v
+R9
+R3
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/deval/Desktop/181dualcam/RECTBUFFER_bb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/RECTBUFFER_bb.v|
+!i113 1
+R5
+R6
+n@r@e@c@t@b@u@f@f@e@r
+vRECTIFY
+R12
+!i10b 1
+!s100 @WoH^cloMNjn00bb5]2X50
+IbiURV09CaaG98d5PQb`_80
+R2
+R0
+w1718065185
+8C:/Users/deval/Desktop/181dualcam/RECTIFY.v
+FC:/Users/deval/Desktop/181dualcam/RECTIFY.v
+L0 1
+R3
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/deval/Desktop/181dualcam/RECTIFY.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/RECTIFY.v|
+!i113 1
+R5
+R6
+n@r@e@c@t@i@f@y
+vSOBEL
+R12
+!i10b 1
+!s100 ZWJ2YBDZTD0zCEWG[@;T50
+I9W00Lc=YHXhV6O2Qf=lTk3
+R2
+R0
+w1717643376
+8C:/Users/deval/Desktop/181dualcam/SOBEL.v
+FC:/Users/deval/Desktop/181dualcam/SOBEL.v
+L0 1
+R3
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/deval/Desktop/181dualcam/SOBEL.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/SOBEL.v|
+!i113 1
+R5
+R6
+n@s@o@b@e@l
+vSOBELMAG
+R12
+!i10b 1
+!s100 f<n3U<6k8>mjSMnazGN>F0
+IS3mV::T2Da=6lVMG@ZOZl2
+R2
+R0
+w1717657742
+8C:/Users/deval/Desktop/181dualcam/SOBELMAG.v
+FC:/Users/deval/Desktop/181dualcam/SOBELMAG.v
+L0 1
+R3
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/deval/Desktop/181dualcam/SOBELMAG.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/SOBELMAG.v|
+!i113 1
+R5
+R6
+n@s@o@b@e@l@m@a@g
+vtestbench
+Z19 !s110 1718081572
+!i10b 1
+!s100 FBD^:YD;>m:j=[aSIQUda2
+IUEZmefeCLANiiYW3J88hD2
+R2
+R0
+w1718063208
+8C:/Users/deval/Desktop/181dualcam/testbench.v
+FC:/Users/deval/Desktop/181dualcam/testbench.v
+L0 2
+R3
+r1
+!s85 0
+31
+Z20 !s108 1718081572.000000
+!s107 C:/Users/deval/Desktop/181dualcam/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/testbench.v|
+!i113 1
+R5
+R6
+vVGA_controller
+!s110 1718081127
+!i10b 1
+!s100 K[HXW80d19`z@ohg]5^Am0
+IoH80A39fzH29NB<VWJ3aT1
+R2
+R0
+w1716505628
+8C:/Users/deval/Desktop/181dualcam/VGA_controller.v
+FC:/Users/deval/Desktop/181dualcam/VGA_controller.v
+FC:\Users\deval\Desktop\181dualcam\VGA_Param.h
+L0 43
+R3
+r1
+!s85 0
+31
+!s108 1718081127.000000
+!s107 C:\Users\deval\Desktop\181dualcam\VGA_Param.h|C:/Users/deval/Desktop/181dualcam/VGA_controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/VGA_controller.v|
+!i113 1
+R5
+R6
+n@v@g@a_controller
+vVGA_READ_COUNTER
+R19
+!i10b 1
+!s100 N8fk;15Hkh]Q=c<2fV@kj0
+IZ<dSFOF8?HKIlcE@MGa0W0
+R2
+R0
+w1716430828
+8C:/Users/deval/Desktop/181dualcam/VGA_READ_COUNTER.v
+FC:/Users/deval/Desktop/181dualcam/VGA_READ_COUNTER.v
+L0 2
+R3
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/deval/Desktop/181dualcam/VGA_READ_COUNTER.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/deval/Desktop/181dualcam/VGA_READ_COUNTER.v|
+!i113 1
+R5
+R6
+n@v@g@a_@r@e@a@d_@c@o@u@n@t@e@r

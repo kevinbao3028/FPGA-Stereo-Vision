@@ -1,0 +1,560 @@
+# Compile of CLOCKMEM.v was successful.
+# Compile of CORNER.v was successful.
+# Compile of CSCT.v was successful.
+# Compile of D8M_SET.v was successful.
+# Compile of D8M_WRITE_COUNTER.v was successful.
+# Compile of DE1_SOC.v failed with 9 errors.
+# Compile of DISPARITY.v was successful.
+# Compile of DISPBUFFER.v was successful.
+# Compile of DISPBUFFER_bb.v was successful.
+# Compile of DISPCURVEBUFFER.v was successful.
+# Compile of DISPCURVEBUFFER_bb.v was successful.
+# Compile of DOUBLEDISPBUFFER.v was successful.
+# Compile of DOUBLEDISPBUFFER_bb.v was successful.
+# Compile of DOUBLEWEIGHTBUFFER.v was successful.
+# Compile of DOUBLEWEIGHTBUFFER_bb.v was successful.
+# Compile of EDGETHIN.v was successful.
+# Compile of FPADD.v was successful.
+# Compile of FPADD_bb.v was successful.
+# Compile of FPADD_inst.v failed with 2 errors.
+# Compile of FPDIV.v was successful.
+# Compile of FPDIV_bb.v was successful.
+# Compile of FPDIV_inst.v failed with 2 errors.
+# Compile of FPMUL.v was successful.
+# Compile of FPSUB.v was successful.
+# Compile of FPSUB_bb.v was successful.
+# Compile of FPSUB_inst.v failed with 2 errors.
+# Compile of HIGHPASS.v was successful.
+# Compile of HOMOGRAPHY_CALC.v failed with 8 errors.
+# Compile of HYBRIDMEDIANBLUR.v was successful.
+# Compile of I2C_READ_DATA.v was successful.
+# Compile of I2C_RESET_DELAY.v was successful.
+# Compile of I2C_WRITE_PTR.v was successful.
+# Compile of I2C_WRITE_WDATA.v was successful.
+# Compile of int_line.v was successful.
+# Compile of int_line_bb.v was successful.
+# Compile of INTDIV.v was successful.
+# Compile of INTDIV_bb.v was successful.
+# Compile of INTDIV_inst.v failed with 2 errors.
+# Compile of INTDIV_syn.v was successful.
+# Compile of Line_Buffer_J.v was successful.
+# Compile of linebuffer.v was successful.
+# Compile of LINEBUFFER_K.v was successful.
+# Compile of LINEBUFFER_K_bb.v was successful.
+# Compile of LINEBUFFER_RD.v was successful.
+# Compile of LINEBUFFER_RD_bb.v was successful.
+# Compile of MINBUFFER.v was successful.
+# Compile of MINBUFFER_bb.v was successful.
+# Compile of MINBUFFER_inst.v failed with 2 errors.
+# Compile of MIPI_BRIDGE_CAMERA_Config.v failed with 3 errors.
+# Compile of MIPI_BRIDGE_CONFIG.v failed with 16 errors.
+# Compile of MIPI_CAMERA_CONFIG.v failed with 24 errors.
+# Compile of PEAKS.v was successful.
+# Compile of RAW_RGB_BIN.v was successful.
+# Compile of RAWDATA_TO_RGB.v was successful with warnings.
+# Compile of RECTBUFFER.v was successful.
+# Compile of RECTBUFFER_bb.v was successful.
+# Compile of RECTIFY.v was successful.
+# Compile of SOBEL.v was successful.
+# Compile of SOBELMAG.v was successful.
+# Compile of testbench.v was successful.
+# Compile of VGA_controller.v was successful.
+# Compile of VGA_READ_COUNTER.v was successful.
+# 62 compiles, 10 failed with 70 errors.
+# Compile of CLOCKMEM.v was successful.
+# Compile of CORNER.v was successful.
+# Compile of CSCT.v was successful.
+# Compile of D8M_SET.v was successful.
+# Compile of D8M_WRITE_COUNTER.v was successful.
+# Compile of DISPARITY.v was successful.
+# Compile of DISPBUFFER.v was successful.
+# Compile of DISPBUFFER_bb.v was successful.
+# Compile of DISPCURVEBUFFER.v was successful.
+# Compile of DISPCURVEBUFFER_bb.v was successful.
+# Compile of DOUBLEDISPBUFFER.v was successful.
+# Compile of DOUBLEDISPBUFFER_bb.v was successful.
+# Compile of DOUBLEWEIGHTBUFFER.v was successful.
+# Compile of DOUBLEWEIGHTBUFFER_bb.v was successful.
+# Compile of EDGETHIN.v was successful.
+# Compile of FPADD.v was successful.
+# Compile of FPADD_bb.v was successful.
+# Compile of FPDIV.v was successful.
+# Compile of FPDIV_bb.v was successful.
+# Compile of FPMUL.v was successful.
+# Compile of FPSUB.v was successful.
+# Compile of FPSUB_bb.v was successful.
+# Compile of HIGHPASS.v was successful.
+# Compile of HOMOGRAPHY_CALC.v failed with 8 errors.
+# Compile of HYBRIDMEDIANBLUR.v was successful.
+# Compile of I2C_READ_DATA.v was successful.
+# Compile of I2C_RESET_DELAY.v was successful.
+# Compile of I2C_WRITE_PTR.v was successful.
+# Compile of I2C_WRITE_WDATA.v was successful.
+# Compile of int_line.v was successful.
+# Compile of int_line_bb.v was successful.
+# Compile of INTDIV.v was successful.
+# Compile of INTDIV_bb.v was successful.
+# Compile of INTDIV_syn.v was successful.
+# Compile of Line_Buffer_J.v was successful.
+# Compile of linebuffer.v was successful.
+# Compile of LINEBUFFER_K.v was successful.
+# Compile of LINEBUFFER_K_bb.v was successful.
+# Compile of LINEBUFFER_RD.v was successful.
+# Compile of LINEBUFFER_RD_bb.v was successful.
+# Compile of MINBUFFER.v was successful.
+# Compile of MINBUFFER_bb.v was successful.
+# Compile of MIPI_BRIDGE_CAMERA_Config.v failed with 3 errors.
+# Compile of PEAKS.v was successful.
+# Compile of RAW_RGB_BIN.v was successful.
+# Compile of RAWDATA_TO_RGB.v was successful with warnings.
+# Compile of RECTBUFFER_bb.v was successful.
+# Compile of RECTIFY.v was successful.
+# Compile of SOBEL.v was successful.
+# Compile of SOBELMAG.v was successful.
+# Compile of testbench.v was successful.
+# Compile of VGA_READ_COUNTER.v was successful.
+# 52 compiles, 2 failed with 11 errors.
+# Error opening C:/Users/deval/Desktop/181dualcam/simulation/modelsim/(vlog-13069) C:/Users/deval/Desktop/181dualcam/HOMOGRAPHY_CALC.v
+# Path name 'C:/Users/deval/Desktop/181dualcam/simulation/modelsim/(vlog-13069) C:/Users/deval/Desktop/181dualcam/HOMOGRAPHY_CALC.v' doesn't exist.
+# Compile of CLOCKMEM.v was successful.
+# Compile of CORNER.v was successful.
+# Compile of CSCT.v was successful.
+# Compile of D8M_SET.v was successful.
+# Compile of D8M_WRITE_COUNTER.v was successful.
+# Compile of DISPARITY.v was successful.
+# Compile of DISPBUFFER.v was successful.
+# Compile of DISPBUFFER_bb.v was successful.
+# Compile of DISPCURVEBUFFER.v was successful.
+# Compile of DISPCURVEBUFFER_bb.v was successful.
+# Compile of DOUBLEDISPBUFFER.v was successful.
+# Compile of DOUBLEDISPBUFFER_bb.v was successful.
+# Compile of DOUBLEWEIGHTBUFFER.v was successful.
+# Compile of DOUBLEWEIGHTBUFFER_bb.v was successful.
+# Compile of EDGETHIN.v was successful.
+# Compile of FPADD.v was successful.
+# Compile of FPADD_bb.v was successful.
+# Compile of FPDIV.v was successful.
+# Compile of FPDIV_bb.v was successful.
+# Compile of FPMUL.v was successful.
+# Compile of FPSUB.v was successful.
+# Compile of FPSUB_bb.v was successful.
+# Compile of HIGHPASS.v was successful.
+# Compile of HOMOGRAPHY_CALC.v failed with 8 errors.
+# Compile of HYBRIDMEDIANBLUR.v was successful.
+# Compile of I2C_READ_DATA.v was successful.
+# Compile of I2C_RESET_DELAY.v was successful.
+# Compile of I2C_WRITE_PTR.v was successful.
+# Compile of I2C_WRITE_WDATA.v was successful.
+# Compile of int_line.v was successful.
+# Compile of int_line_bb.v was successful.
+# Compile of INTDIV.v was successful.
+# Compile of INTDIV_bb.v was successful.
+# Compile of INTDIV_syn.v was successful.
+# Compile of Line_Buffer_J.v was successful.
+# Compile of linebuffer.v was successful.
+# Compile of LINEBUFFER_K.v was successful.
+# Compile of LINEBUFFER_K_bb.v was successful.
+# Compile of LINEBUFFER_RD.v was successful.
+# Compile of LINEBUFFER_RD_bb.v was successful.
+# Compile of MINBUFFER.v was successful.
+# Compile of MINBUFFER_bb.v was successful.
+# Compile of PEAKS.v was successful.
+# Compile of RAW_RGB_BIN.v was successful.
+# Compile of RAWDATA_TO_RGB.v was successful with warnings.
+# Compile of RECTBUFFER_bb.v was successful.
+# Compile of RECTIFY.v was successful.
+# Compile of SOBEL.v was successful.
+# Compile of SOBELMAG.v was successful.
+# Compile of testbench.v was successful.
+# Compile of VGA_READ_COUNTER.v was successful.
+# 51 compiles, 1 failed with 8 errors.
+# Error opening C:/Users/deval/Desktop/181dualcam/simulation/modelsim/(vlog-13069) C:/Users/deval/Desktop/181dualcam/HOMOGRAPHY_CALC.v
+# Path name 'C:/Users/deval/Desktop/181dualcam/simulation/modelsim/(vlog-13069) C:/Users/deval/Desktop/181dualcam/HOMOGRAPHY_CALC.v' doesn't exist.
+# Compile of CLOCKMEM.v was successful.
+# Compile of CORNER.v was successful.
+# Compile of CSCT.v was successful.
+# Compile of D8M_SET.v was successful.
+# Compile of D8M_WRITE_COUNTER.v was successful.
+# Compile of DISPARITY.v was successful.
+# Compile of DISPBUFFER.v was successful.
+# Compile of DISPBUFFER_bb.v was successful.
+# Compile of DISPCURVEBUFFER.v was successful.
+# Compile of DISPCURVEBUFFER_bb.v was successful.
+# Compile of DOUBLEDISPBUFFER.v was successful.
+# Compile of DOUBLEDISPBUFFER_bb.v was successful.
+# Compile of DOUBLEWEIGHTBUFFER.v was successful.
+# Compile of DOUBLEWEIGHTBUFFER_bb.v was successful.
+# Compile of EDGETHIN.v was successful.
+# Compile of FPADD.v was successful.
+# Compile of FPADD_bb.v was successful.
+# Compile of FPDIV.v was successful.
+# Compile of FPDIV_bb.v was successful.
+# Compile of FPMUL.v was successful.
+# Compile of FPSUB.v was successful.
+# Compile of FPSUB_bb.v was successful.
+# Compile of HIGHPASS.v was successful.
+# Compile of HOMOGRAPHY_CALC.v failed with 9 errors.
+# Compile of HYBRIDMEDIANBLUR.v was successful.
+# Compile of I2C_READ_DATA.v was successful.
+# Compile of I2C_RESET_DELAY.v was successful.
+# Compile of I2C_WRITE_PTR.v was successful.
+# Compile of I2C_WRITE_WDATA.v was successful.
+# Compile of int_line.v was successful.
+# Compile of int_line_bb.v was successful.
+# Compile of INTDIV.v was successful.
+# Compile of INTDIV_bb.v was successful.
+# Compile of INTDIV_syn.v was successful.
+# Compile of Line_Buffer_J.v was successful.
+# Compile of linebuffer.v was successful.
+# Compile of LINEBUFFER_K.v was successful.
+# Compile of LINEBUFFER_K_bb.v was successful.
+# Compile of LINEBUFFER_RD.v was successful.
+# Compile of LINEBUFFER_RD_bb.v was successful.
+# Compile of MINBUFFER.v was successful.
+# Compile of MINBUFFER_bb.v was successful.
+# Compile of PEAKS.v was successful.
+# Compile of RAW_RGB_BIN.v was successful.
+# Compile of RAWDATA_TO_RGB.v was successful with warnings.
+# Compile of RECTBUFFER_bb.v was successful.
+# Compile of RECTIFY.v was successful.
+# Compile of SOBEL.v was successful.
+# Compile of SOBELMAG.v was successful.
+# Compile of testbench.v was successful.
+# Compile of VGA_READ_COUNTER.v was successful.
+# 51 compiles, 1 failed with 9 errors.
+# Error opening C:/Users/deval/Desktop/181dualcam/simulation/modelsim/(vlog-13069) C:/Users/deval/Desktop/181dualcam/HOMOGRAPHY_CALC.v
+# Path name 'C:/Users/deval/Desktop/181dualcam/simulation/modelsim/(vlog-13069) C:/Users/deval/Desktop/181dualcam/HOMOGRAPHY_CALC.v' doesn't exist.
+# Compile of CLOCKMEM.v was successful.
+# Compile of CORNER.v was successful.
+# Compile of CSCT.v was successful.
+# Compile of D8M_SET.v was successful.
+# Compile of D8M_WRITE_COUNTER.v was successful.
+# Compile of DISPARITY.v was successful.
+# Compile of DISPBUFFER.v was successful.
+# Compile of DISPBUFFER_bb.v was successful.
+# Compile of DISPCURVEBUFFER.v was successful.
+# Compile of DISPCURVEBUFFER_bb.v was successful.
+# Compile of DOUBLEDISPBUFFER.v was successful.
+# Compile of DOUBLEDISPBUFFER_bb.v was successful.
+# Compile of DOUBLEWEIGHTBUFFER.v was successful.
+# Compile of DOUBLEWEIGHTBUFFER_bb.v was successful.
+# Compile of EDGETHIN.v was successful.
+# Compile of FPADD.v was successful.
+# Compile of FPADD_bb.v was successful.
+# Compile of FPDIV.v was successful.
+# Compile of FPDIV_bb.v was successful.
+# Compile of FPMUL.v was successful.
+# Compile of FPSUB.v was successful.
+# Compile of FPSUB_bb.v was successful.
+# Compile of HIGHPASS.v was successful.
+# Compile of HOMOGRAPHY_CALC.v failed with 8 errors.
+# Compile of HYBRIDMEDIANBLUR.v was successful.
+# Compile of I2C_READ_DATA.v was successful.
+# Compile of I2C_RESET_DELAY.v was successful.
+# Compile of I2C_WRITE_PTR.v was successful.
+# Compile of I2C_WRITE_WDATA.v was successful.
+# Compile of int_line.v was successful.
+# Compile of int_line_bb.v was successful.
+# Compile of INTDIV.v was successful.
+# Compile of INTDIV_bb.v was successful.
+# Compile of INTDIV_syn.v was successful.
+# Compile of Line_Buffer_J.v was successful.
+# Compile of linebuffer.v was successful.
+# Compile of LINEBUFFER_K.v was successful.
+# Compile of LINEBUFFER_K_bb.v was successful.
+# Compile of LINEBUFFER_RD.v was successful.
+# Compile of LINEBUFFER_RD_bb.v was successful.
+# Compile of MINBUFFER.v was successful.
+# Compile of MINBUFFER_bb.v was successful.
+# Compile of PEAKS.v was successful.
+# Compile of RAW_RGB_BIN.v was successful.
+# Compile of RAWDATA_TO_RGB.v was successful with warnings.
+# Compile of RECTBUFFER_bb.v was successful.
+# Compile of RECTIFY.v was successful.
+# Compile of SOBEL.v was successful.
+# Compile of SOBELMAG.v was successful.
+# Compile of testbench.v was successful.
+# Compile of VGA_READ_COUNTER.v was successful.
+# 51 compiles, 1 failed with 8 errors.
+# Error opening C:/Users/deval/Desktop/181dualcam/simulation/modelsim/(vlog-13069) C:/Users/deval/Desktop/181dualcam/HOMOGRAPHY_CALC.v
+# Path name 'C:/Users/deval/Desktop/181dualcam/simulation/modelsim/(vlog-13069) C:/Users/deval/Desktop/181dualcam/HOMOGRAPHY_CALC.v' doesn't exist.
+# Error opening C:/Users/deval/Desktop/181dualcam/simulation/modelsim/(vlog-13069) C:/Users/deval/Desktop/181dualcam/HOMOGRAPHY_CALC.v
+# Path name 'C:/Users/deval/Desktop/181dualcam/simulation/modelsim/(vlog-13069) C:/Users/deval/Desktop/181dualcam/HOMOGRAPHY_CALC.v' doesn't exist.
+# Error opening C:/Users/deval/Desktop/181dualcam/simulation/modelsim/(vlog-13069) C:/Users/deval/Desktop/181dualcam/HOMOGRAPHY_CALC.v
+# Path name 'C:/Users/deval/Desktop/181dualcam/simulation/modelsim/(vlog-13069) C:/Users/deval/Desktop/181dualcam/HOMOGRAPHY_CALC.v' doesn't exist.
+# Error opening C:/Users/deval/Desktop/181dualcam/simulation/modelsim/(vlog-13069) C:/Users/deval/Desktop/181dualcam/HOMOGRAPHY_CALC.v
+# Path name 'C:/Users/deval/Desktop/181dualcam/simulation/modelsim/(vlog-13069) C:/Users/deval/Desktop/181dualcam/HOMOGRAPHY_CALC.v' doesn't exist.
+# Error opening C:/Users/deval/Desktop/181dualcam/simulation/modelsim/(vlog-13069) C:/Users/deval/Desktop/181dualcam/HOMOGRAPHY_CALC.v 
+# Path name 'C:/Users/deval/Desktop/181dualcam/simulation/modelsim/(vlog-13069) C:/Users/deval/Desktop/181dualcam/HOMOGRAPHY_CALC.v ' doesn't exist.
+# Compile of CLOCKMEM.v was successful.
+# Compile of CORNER.v was successful.
+# Compile of CSCT.v was successful.
+# Compile of D8M_SET.v was successful.
+# Compile of D8M_WRITE_COUNTER.v was successful.
+# Compile of DISPARITY.v was successful.
+# Compile of DISPBUFFER.v was successful.
+# Compile of DISPBUFFER_bb.v was successful.
+# Compile of DISPCURVEBUFFER.v was successful.
+# Compile of DISPCURVEBUFFER_bb.v was successful.
+# Compile of DOUBLEDISPBUFFER.v was successful.
+# Compile of DOUBLEDISPBUFFER_bb.v was successful.
+# Compile of DOUBLEWEIGHTBUFFER.v was successful.
+# Compile of DOUBLEWEIGHTBUFFER_bb.v was successful.
+# Compile of EDGETHIN.v was successful.
+# Compile of FPADD.v was successful.
+# Compile of FPADD_bb.v was successful.
+# Compile of FPDIV.v was successful.
+# Compile of FPDIV_bb.v was successful.
+# Compile of FPMUL.v was successful.
+# Compile of FPSUB.v was successful.
+# Compile of FPSUB_bb.v was successful.
+# Compile of HIGHPASS.v was successful.
+# Compile of HOMOGRAPHY_CALC.v failed with 8 errors.
+# Compile of HYBRIDMEDIANBLUR.v was successful.
+# Compile of I2C_READ_DATA.v was successful.
+# Compile of I2C_RESET_DELAY.v was successful.
+# Compile of I2C_WRITE_PTR.v was successful.
+# Compile of I2C_WRITE_WDATA.v was successful.
+# Compile of int_line.v was successful.
+# Compile of int_line_bb.v was successful.
+# Compile of INTDIV.v was successful.
+# Compile of INTDIV_bb.v was successful.
+# Compile of INTDIV_syn.v was successful.
+# Compile of Line_Buffer_J.v was successful.
+# Compile of linebuffer.v was successful.
+# Compile of LINEBUFFER_K.v was successful.
+# Compile of LINEBUFFER_K_bb.v was successful.
+# Compile of LINEBUFFER_RD.v was successful.
+# Compile of LINEBUFFER_RD_bb.v was successful.
+# Compile of MINBUFFER.v was successful.
+# Compile of MINBUFFER_bb.v was successful.
+# Compile of PEAKS.v was successful.
+# Compile of RAW_RGB_BIN.v was successful.
+# Compile of RAWDATA_TO_RGB.v was successful with warnings.
+# Compile of RECTBUFFER_bb.v was successful.
+# Compile of RECTIFY.v was successful.
+# Compile of SOBEL.v was successful.
+# Compile of SOBELMAG.v was successful.
+# Compile of testbench.v was successful.
+# Compile of VGA_READ_COUNTER.v was successful.
+# 51 compiles, 1 failed with 8 errors.
+# Compile of CLOCKMEM.v was successful.
+# Compile of CORNER.v was successful.
+# Compile of CSCT.v was successful.
+# Compile of D8M_SET.v was successful.
+# Compile of D8M_WRITE_COUNTER.v was successful.
+# Compile of DISPARITY.v was successful.
+# Compile of DISPBUFFER.v was successful.
+# Compile of DISPBUFFER_bb.v was successful.
+# Compile of DISPCURVEBUFFER.v was successful.
+# Compile of DISPCURVEBUFFER_bb.v was successful.
+# Compile of DOUBLEDISPBUFFER.v was successful.
+# Compile of DOUBLEDISPBUFFER_bb.v was successful.
+# Compile of DOUBLEWEIGHTBUFFER.v was successful.
+# Compile of DOUBLEWEIGHTBUFFER_bb.v was successful.
+# Compile of EDGETHIN.v was successful.
+# Compile of FPADD.v was successful.
+# Compile of FPADD_bb.v was successful.
+# Compile of FPDIV.v was successful.
+# Compile of FPDIV_bb.v was successful.
+# Compile of FPMUL.v was successful.
+# Compile of FPSUB.v was successful.
+# Compile of FPSUB_bb.v was successful.
+# Compile of HIGHPASS.v was successful.
+# Compile of HOMOGRAPHY_CALC.v failed with 7 errors.
+# Compile of HYBRIDMEDIANBLUR.v was successful.
+# Compile of I2C_READ_DATA.v was successful.
+# Compile of I2C_RESET_DELAY.v was successful.
+# Compile of I2C_WRITE_PTR.v was successful.
+# Compile of I2C_WRITE_WDATA.v was successful.
+# Compile of int_line.v was successful.
+# Compile of int_line_bb.v was successful.
+# Compile of INTDIV.v was successful.
+# Compile of INTDIV_bb.v was successful.
+# Compile of INTDIV_syn.v was successful.
+# Compile of Line_Buffer_J.v was successful.
+# Compile of linebuffer.v was successful.
+# Compile of LINEBUFFER_K.v was successful.
+# Compile of LINEBUFFER_K_bb.v was successful.
+# Compile of LINEBUFFER_RD.v was successful.
+# Compile of LINEBUFFER_RD_bb.v was successful.
+# Compile of MINBUFFER.v was successful.
+# Compile of MINBUFFER_bb.v was successful.
+# Compile of PEAKS.v was successful.
+# Compile of RAW_RGB_BIN.v was successful.
+# Compile of RAWDATA_TO_RGB.v was successful with warnings.
+# Compile of RECTBUFFER_bb.v was successful.
+# Compile of RECTIFY.v was successful.
+# Compile of SOBEL.v was successful.
+# Compile of SOBELMAG.v was successful.
+# Compile of testbench.v was successful.
+# Compile of VGA_READ_COUNTER.v was successful.
+# 51 compiles, 1 failed with 7 errors.
+# Compile of CLOCKMEM.v was successful.
+# Compile of CORNER.v was successful.
+# Compile of CSCT.v was successful.
+# Compile of D8M_SET.v was successful.
+# Compile of D8M_WRITE_COUNTER.v was successful.
+# Compile of DISPARITY.v was successful.
+# Compile of DISPBUFFER.v was successful.
+# Compile of DISPBUFFER_bb.v was successful.
+# Compile of DISPCURVEBUFFER.v was successful.
+# Compile of DISPCURVEBUFFER_bb.v was successful.
+# Compile of DOUBLEDISPBUFFER.v was successful.
+# Compile of DOUBLEDISPBUFFER_bb.v was successful.
+# Compile of DOUBLEWEIGHTBUFFER.v was successful.
+# Compile of DOUBLEWEIGHTBUFFER_bb.v was successful.
+# Compile of EDGETHIN.v was successful.
+# Compile of FPADD.v was successful.
+# Compile of FPADD_bb.v was successful.
+# Compile of FPDIV.v was successful.
+# Compile of FPDIV_bb.v was successful.
+# Compile of FPMUL.v was successful.
+# Compile of FPSUB.v was successful.
+# Compile of FPSUB_bb.v was successful.
+# Compile of HIGHPASS.v was successful.
+# Compile of HOMOGRAPHY_CALC.v failed with 1 errors.
+# Compile of HYBRIDMEDIANBLUR.v was successful.
+# Compile of I2C_READ_DATA.v was successful.
+# Compile of I2C_RESET_DELAY.v was successful.
+# Compile of I2C_WRITE_PTR.v was successful.
+# Compile of I2C_WRITE_WDATA.v was successful.
+# Compile of int_line.v was successful.
+# Compile of int_line_bb.v was successful.
+# Compile of INTDIV.v was successful.
+# Compile of INTDIV_bb.v was successful.
+# Compile of INTDIV_syn.v was successful.
+# Compile of Line_Buffer_J.v was successful.
+# Compile of linebuffer.v was successful.
+# Compile of LINEBUFFER_K.v was successful.
+# Compile of LINEBUFFER_K_bb.v was successful.
+# Compile of LINEBUFFER_RD.v was successful.
+# Compile of LINEBUFFER_RD_bb.v was successful.
+# Compile of MINBUFFER.v was successful.
+# Compile of MINBUFFER_bb.v was successful.
+# Compile of PEAKS.v was successful.
+# Compile of RAW_RGB_BIN.v was successful.
+# Compile of RAWDATA_TO_RGB.v was successful with warnings.
+# Compile of RECTBUFFER_bb.v was successful.
+# Compile of RECTIFY.v was successful.
+# Compile of SOBEL.v was successful.
+# Compile of SOBELMAG.v was successful.
+# Compile of testbench.v was successful.
+# Compile of VGA_READ_COUNTER.v was successful.
+# 51 compiles, 1 failed with 1 error.
+
+# Compile of CLOCKMEM.v was successful.
+# Compile of CORNER.v was successful.
+# Compile of CSCT.v was successful.
+# Compile of D8M_SET.v was successful.
+# Compile of D8M_WRITE_COUNTER.v was successful.
+# Compile of DISPARITY.v was successful.
+# Compile of DISPBUFFER.v was successful.
+# Compile of DISPBUFFER_bb.v was successful.
+# Compile of DISPCURVEBUFFER.v was successful.
+# Compile of DISPCURVEBUFFER_bb.v was successful.
+# Compile of DOUBLEDISPBUFFER.v was successful.
+# Compile of DOUBLEDISPBUFFER_bb.v was successful.
+# Compile of DOUBLEWEIGHTBUFFER.v was successful.
+# Compile of DOUBLEWEIGHTBUFFER_bb.v was successful.
+# Compile of EDGETHIN.v was successful.
+# Compile of FPADD.v was successful.
+# Compile of FPADD_bb.v was successful.
+# Compile of FPDIV.v was successful.
+# Compile of FPDIV_bb.v was successful.
+# Compile of FPMUL.v was successful.
+# Compile of FPSUB.v was successful.
+# Compile of FPSUB_bb.v was successful.
+# Compile of HIGHPASS.v was successful.
+# Compile of HOMOGRAPHY_CALC.v failed with 2 errors.
+# Compile of HYBRIDMEDIANBLUR.v was successful.
+# Compile of I2C_READ_DATA.v was successful.
+# Compile of I2C_RESET_DELAY.v was successful.
+# Compile of I2C_WRITE_PTR.v was successful.
+# Compile of I2C_WRITE_WDATA.v was successful.
+# Compile of int_line.v was successful.
+# Compile of int_line_bb.v was successful.
+# Compile of INTDIV.v was successful.
+# Compile of INTDIV_bb.v was successful.
+# Compile of INTDIV_syn.v was successful.
+# Compile of Line_Buffer_J.v was successful.
+# Compile of linebuffer.v was successful.
+# Compile of LINEBUFFER_K.v was successful.
+# Compile of LINEBUFFER_K_bb.v was successful.
+# Compile of LINEBUFFER_RD.v was successful.
+# Compile of LINEBUFFER_RD_bb.v was successful.
+# Compile of MINBUFFER.v was successful.
+# Compile of MINBUFFER_bb.v was successful.
+# Compile of PEAKS.v was successful.
+# Compile of RAW_RGB_BIN.v was successful.
+# Compile of RAWDATA_TO_RGB.v was successful with warnings.
+# Compile of RECTBUFFER_bb.v was successful.
+# Compile of RECTIFY.v was successful.
+# Compile of SOBEL.v was successful.
+# Compile of SOBELMAG.v was successful.
+# Compile of testbench.v was successful.
+# Compile of VGA_READ_COUNTER.v was successful.
+# 51 compiles, 1 failed with 2 errors.
+# Compile of CLOCKMEM.v was successful.
+# Compile of CORNER.v was successful.
+# Compile of CSCT.v was successful.
+# Compile of D8M_SET.v was successful.
+# Compile of D8M_WRITE_COUNTER.v was successful.
+# Compile of DISPARITY.v was successful.
+# Compile of DISPBUFFER.v was successful.
+# Compile of DISPBUFFER_bb.v was successful.
+# Compile of DISPCURVEBUFFER.v was successful.
+# Compile of DISPCURVEBUFFER_bb.v was successful.
+# Compile of DOUBLEDISPBUFFER.v was successful.
+# Compile of DOUBLEDISPBUFFER_bb.v was successful.
+# Compile of DOUBLEWEIGHTBUFFER.v was successful.
+# Compile of DOUBLEWEIGHTBUFFER_bb.v was successful.
+# Compile of EDGETHIN.v was successful.
+# Compile of FPADD.v was successful.
+# Compile of FPADD_bb.v was successful.
+# Compile of FPDIV.v was successful.
+# Compile of FPDIV_bb.v was successful.
+# Compile of FPMUL.v was successful.
+# Compile of FPSUB.v was successful.
+# Compile of FPSUB_bb.v was successful.
+# Compile of HIGHPASS.v was successful.
+# Compile of HOMOGRAPHY_CALC.v was successful.
+# Compile of HYBRIDMEDIANBLUR.v was successful.
+# Compile of I2C_READ_DATA.v was successful.
+# Compile of I2C_RESET_DELAY.v was successful.
+# Compile of I2C_WRITE_PTR.v was successful.
+# Compile of I2C_WRITE_WDATA.v was successful.
+# Compile of int_line.v was successful.
+# Compile of int_line_bb.v was successful.
+# Compile of INTDIV.v was successful.
+# Compile of INTDIV_bb.v was successful.
+# Compile of INTDIV_syn.v was successful.
+# Compile of Line_Buffer_J.v was successful.
+# Compile of linebuffer.v was successful.
+# Compile of LINEBUFFER_K.v was successful.
+# Compile of LINEBUFFER_K_bb.v was successful.
+# Compile of LINEBUFFER_RD.v was successful.
+# Compile of LINEBUFFER_RD_bb.v was successful.
+# Compile of MINBUFFER.v was successful.
+# Compile of MINBUFFER_bb.v was successful.
+# Compile of PEAKS.v was successful.
+# Compile of RAW_RGB_BIN.v was successful.
+# Compile of RAWDATA_TO_RGB.v was successful with warnings.
+# Compile of RECTBUFFER_bb.v was successful.
+# Compile of RECTIFY.v was successful.
+# Compile of SOBEL.v was successful.
+# Compile of SOBELMAG.v was successful.
+# Compile of testbench.v was successful.
+# Compile of VGA_READ_COUNTER.v was successful.
+# 51 compiles, 0 failed with no errors.
+# Load canceled
+vmap -del work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap -del work 
+# Removing reference to logical library work
+# Modifying C:/Users/deval/Desktop/181dualcam/simulation/modelsim/181sum2.mpf
+vmap work C:/Users/deval/Desktop/181dualcam/work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work C:/Users/deval/Desktop/181dualcam/work 
+# Modifying C:/Users/deval/Desktop/181dualcam/simulation/modelsim/181sum2.mpf
+vsim -gui -l msim_transcript work.HOMOGRAPHY_CALC

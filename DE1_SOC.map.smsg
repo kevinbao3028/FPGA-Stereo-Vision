@@ -1,0 +1,15 @@
+Warning (10268): Verilog HDL information at CSCT.v(26): always construct contains both blocking and non-blocking assignments File: C:/Users/deval/Desktop/181dualcam/CSCT.v Line: 26
+Warning (10268): Verilog HDL information at DISPARITY.v(68): always construct contains both blocking and non-blocking assignments File: C:/Users/deval/Desktop/181dualcam/DISPARITY.v Line: 68
+Warning (10268): Verilog HDL information at DISPARITY.v(157): always construct contains both blocking and non-blocking assignments File: C:/Users/deval/Desktop/181dualcam/DISPARITY.v Line: 157
+Info (10281): Verilog HDL Declaration information at DISPARITY.v(16): object "P2" differs only in case from object "p2" in the same scope File: C:/Users/deval/Desktop/181dualcam/DISPARITY.v Line: 16
+Warning (10268): Verilog HDL information at HYBRIDMEDIANBLUR.v(25): always construct contains both blocking and non-blocking assignments File: C:/Users/deval/Desktop/181dualcam/HYBRIDMEDIANBLUR.v Line: 25
+Warning (10268): Verilog HDL information at EDGETHIN.v(27): always construct contains both blocking and non-blocking assignments File: C:/Users/deval/Desktop/181dualcam/EDGETHIN.v Line: 27
+Warning (10268): Verilog HDL information at CORNER.v(35): always construct contains both blocking and non-blocking assignments File: C:/Users/deval/Desktop/181dualcam/CORNER.v Line: 35
+Warning (10268): Verilog HDL information at SOBELMAG.v(27): always construct contains both blocking and non-blocking assignments File: C:/Users/deval/Desktop/181dualcam/SOBELMAG.v Line: 27
+Warning (10268): Verilog HDL information at RECTIFY.v(71): always construct contains both blocking and non-blocking assignments File: C:/Users/deval/Desktop/181dualcam/RECTIFY.v Line: 71
+Info (10281): Verilog HDL Declaration information at rgb_process.v(24): object "HEX0" differs only in case from object "hex0" in the same scope File: C:/Users/deval/Desktop/181dualcam/rgb_process.v Line: 24
+Info (10281): Verilog HDL Declaration information at rgb_process.v(25): object "HEX1" differs only in case from object "hex1" in the same scope File: C:/Users/deval/Desktop/181dualcam/rgb_process.v Line: 25
+Info (10281): Verilog HDL Declaration information at rgb_process.v(26): object "HEX2" differs only in case from object "hex2" in the same scope File: C:/Users/deval/Desktop/181dualcam/rgb_process.v Line: 26
+Info (10281): Verilog HDL Declaration information at rgb_process.v(27): object "HEX3" differs only in case from object "hex3" in the same scope File: C:/Users/deval/Desktop/181dualcam/rgb_process.v Line: 27
+Info (10281): Verilog HDL Declaration information at rgb_process.v(28): object "HEX4" differs only in case from object "hex4" in the same scope File: C:/Users/deval/Desktop/181dualcam/rgb_process.v Line: 28
+Info (10281): Verilog HDL Declaration information at rgb_process.v(29): object "HEX5" differs only in case from object "hex5" in the same scope File: C:/Users/deval/Desktop/181dualcam/rgb_process.v Line: 29

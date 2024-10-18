@@ -1,0 +1,30 @@
+Info: Starting: Create block symbol file (.bsf)
+Info: qsys-generate C:\Users\deval\Desktop\181dualcam\vgapll.qsys --block-symbol-file --output-directory=C:\Users\deval\Desktop\181dualcam\vgapll --family="Cyclone V" --part=5CSEMA5F31C6
+Progress: Loading 181dualcam/vgapll.qsys
+Progress: Reading input file
+Progress: Adding video_pll_0 [altera_up_avalon_video_pll 18.0]
+Progress: Parameterizing module video_pll_0
+Progress: Building connections
+Progress: Parameterizing connections
+Progress: Validating
+Progress: Done reading input file
+Info: qsys-generate succeeded.
+Info: Finished: Create block symbol file (.bsf)
+Info: 
+Info: Starting: Create HDL design files for synthesis
+Info: qsys-generate C:\Users\deval\Desktop\181dualcam\vgapll.qsys --synthesis=VERILOG --output-directory=C:\Users\deval\Desktop\181dualcam\vgapll\synthesis --family="Cyclone V" --part=5CSEMA5F31C6
+Progress: Loading 181dualcam/vgapll.qsys
+Progress: Reading input file
+Progress: Adding video_pll_0 [altera_up_avalon_video_pll 18.0]
+Progress: Parameterizing module video_pll_0
+Progress: Building connections
+Progress: Parameterizing connections
+Progress: Validating
+Progress: Done reading input file
+Info: vgapll: Generating vgapll "vgapll" for QUARTUS_SYNTH
+Info: video_pll_0: "vgapll" instantiated altera_up_avalon_video_pll "video_pll_0"
+Info: video_pll: "video_pll_0" instantiated altera_pll "video_pll"
+Info: reset_from_locked: "video_pll_0" instantiated altera_up_avalon_reset_from_locked_signal "reset_from_locked"
+Info: vgapll: Done "vgapll" with 4 modules, 5 files
+Info: qsys-generate succeeded.
+Info: Finished: Create HDL design files for synthesis

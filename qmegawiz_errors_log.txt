@@ -1,0 +1,13 @@
+
+
+C:/Users/deval/Desktop/181dualcam/FPADD.v
+
+Jun 10 09PM:29:21>: Failed to generate the synthesis netlist file
+
+C:/Users/deval/Desktop/181dualcam/FPSUB.v
+
+Jun 10 09PM:31:04>: Failed to generate the synthesis netlist file
+
+C:/Users/deval/Desktop/181dualcam/FPDIV.v
+
+Jun 10 09PM:33:14>: Failed to generate the synthesis netlist file

@@ -1,0 +1,24 @@
+module RECTIFY(
+	input clk,
+	input		[7:0]		a,
+	input		[7:0]		b,
+	input		[12:0]	ix,
+	input		[12:0]	iy,
+	output	[12:0]	ox,
+	output	[12:0]	oy,
+	
+);
+	
+/*TODO*/ buffer_a(.clock(clk),.data(a),.rdaddress(rd_ptr),.wraddress(col[9:0]),.wren(1'b1),.q(out1));	//2-port RAM 1024x8
+/*TODO*/ buffer_b(.clock(clk),.data(b),.rdaddress(rd_ptr),.wraddress(col[9:0]),.wren(1'b1),.q(out1));	//2-port RAM 1024x8
+
+reg	[:0]	rd_ptr;
+reg	[:0]	delay;
+always @(posedge clk) begin
+	rd_ptr	<=	rd_ptr+1;
+//calcul
+end
+
+
+
+endmodule
